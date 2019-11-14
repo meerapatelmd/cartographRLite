@@ -1,0 +1,1854 @@
+CUI,STR
+C1522449,Radiation Treatment
+C0677850,Adjuvant therapy
+C0001758,after treatment
+C4289789,cfDNA
+C4289789,Cell free DNA
+C1521991,Molecular
+C0206692,Infiltrating lobular carcinoma
+C1134719,Infiltrating Ductal Carcinoma
+C1516048,Assessed
+C0338204,Herceptin
+C0108779,CD3
+C0039194,T-Cells
+C0524469,Left shoulder
+C0205358,Soft
+C0225317,soft tissue
+C0040300,tissue
+C0040421,Palatine Tonsil
+C0034001,Pterygoid muscle
+C0279068,Solid Tumor
+C0884358,Performed
+C1549625,Ethnicity unknown
+C0086528,Latino
+C0239307,European
+C0332196,Exclude
+C1417836,NOT
+C0037750,Spanish
+C3639994,Discordance
+C1707513,Copy Number
+C0021044,IHC
+C0002808,Anatomy
+C0027627,Metastasis
+C0807712,Recurrence date
+C4744823,Metastatic Sample
+C1953343,Chromosome number
+C0015250,Complete Resection
+C0205145,Site
+C1515974,Anatomic Location
+C0006802,CM
+C0475210,centimeter
+C0205390,Stage
+C1521733,Pathologic
+C0030664,Pathological
+C1521801,Administered
+C0445204,Pre-operative
+C0600558,Neoadjuvant Therapy
+C0205090,Right
+C0004454,Axilla
+C0038894,Surgery
+C0205091,Left
+C0011900,Diagnosis
+C1373200,Order
+C0439064,Multiple
+C0282416,Overall
+C1522508,Detailed
+C0205435,1st
+C0205435,First
+C0332307,Type
+C0011008,Date
+C0205276,Local
+C0699885,BLADDER CARCINOMA
+C0005682,Bladder
+C0132555,NOS
+C0007097,Carcinoma
+C0205281,Invasive
+C0370003,Sample
+C0439165,Percent
+C0439810,Total
+C1265611,Quantity
+C0237753,Number
+C0750480,Count
+C0439673,Unknown
+C0027361,Person
+C1517741,Last
+C0017428,Genomic
+C0002778,Analysis
+C0017296,GENETIC
+C0030705,Patient
+C0035168,research
+C0004793,Sequence
+C0282411,Comment
+C0242939,adjuvant radiotherapy
+C0034619,radiotherapy
+C1515974,Anatomic Site
+C0021044,Immunohistochemistry
+C0034833,Progesterone Receptor
+C0034804,estrogen receptor
+C1335475,Primary Carcinoma
+C1708790,Lymphovascular Invasion
+C0439743,Multicentric
+C0746319,Positive Lymph Node
+C0025663,Method
+C0589120,follow up
+C0205462,Histological
+C0449560,Subtype
+C0026882,Mutation
+C3271329,DMP
+C0600091,Identifier
+C0231220,Symptomatic
+C0026985,Myelodysplasia
+C1306459,primary cancer
+C2090600,signed:
+C1513491,Most Recent
+C1257909,Somatic
+C0428772,LVEF
+C0178932,quality assurance
+C0447660,Quadrant of breast
+C0332306,Quality
+C0034786,Androgen Receptor
+C1519814,Update
+C3827420,Incorrect
+C1511481,Consent
+C4519079,veledimex
+C0205250,High
+C1517033,Definitive Radiation Therapy
+C0149741,nipple discharge
+C0028109,Nipple
+C0001575,Uterine adnexa
+C0001575,adnexa
+C1518340,No Evidence of Disease
+C0086409,Hispanic
+C0240318,Mediastinal mass
+C0205448,Two
+C0205447,One
+C0227048,13
+C0034043,Puerto Rican
+C0013014,Dominican Republic
+C3840603,Spanish Surname only
+C1553379,Cuban
+C0185115,Extraction
+C4053573,LY3023414
+C4287738,LY3022855
+C3273551,LY2835219
+C4511913,CEDM
+C0024485,MRI
+C0282411,Comment
+C0808070,Start Date
+C0080194,Strain
+C0677922,ovarian suppression
+C0450429,Location
+C0005525,Immunotherapy
+C0279025,Endocrine therapy
+C0013216,Chemotherapy
+C0475373,T2
+C2698020,Mass Density
+C0006660,Calcification
+C1659543,Breast Density
+C2347029,Sample Type
+C0205547,Routine
+C0424860,Size of mass
+C3166257,Reason stopped
+C4738935,Collection setting
+C1827571,Depth of lesion
+C0447660,Breast quadrant
+C0392360,indication
+C0009488,comorbidities
+C0015031,Ethnicity
+C2598519,Current age
+C0034519,Radiation
+C0242596,MRD
+C0036525,metastatic
+C0001551,Adjuvant
+C1882413,PARP Inhibitors
+C1511314,BIRADS
+C0023114,laterality
+C0449523,Type of scan
+C0030664,Pathology
+C1519386,Smoking Status
+C0015663,Fast
+C0009458,Medium
+C0439834,Slow
+C2964353,Plateau
+C0205322,Persistent
+C0205387,Clumped
+C0205219,Diffuse
+C0205147,regional
+C1668248,Iso
+C0424295,Hyper
+C3660928,GDC0032
+C4330917,GDC0077
+C0080194,Strain
+C0522501,Marked
+C0547040,Minimal
+C0205099,Central
+C0205122,Segmental
+C0205132,Linear
+C1308727,RIM
+C4698330,Homogenous
+C0522501,Marked
+C0547040,Minimal
+C0439742,Scattered
+C0015252,resection
+C0439742,Scattered
+C0205234,Focus
+C0241165,SKIN THICKENING
+C3476657,Troubleshooting
+C4331246,Restaging
+C0332305,Staging
+C0450363,3D
+C1442455,2D
+C0205314,New
+C0442808,Increasing
+C0205360,Stable
+C4727091,Obscured
+C0015677,Fat
+C0205251,low
+C0205163,Equal
+C4684449,On Treatment
+C2709088,post treatment
+C2709094,pre treatment
+C4331277,Seviteronel
+C1565489,Renal impairment
+C0257685,zoledronic acid
+C3711165,VS5584
+C0078257,vinorelbine
+C0042679,Vincristine
+C0042670,Vinblastine
+C1958300,veliparib
+C2986853,TRX518
+C3887576,Lucitanib
+C2351038,tremelimumab
+C0728747,trastuzumab
+C0076836,Toremifene
+C1872681,tesetaxel
+C1707080,temsirolimus
+C0076080,temozolomide
+C4287740,LSZ102
+C0039286,Tamoxifen
+C1831828,TALIMOGENE LAHERPAREPVEC
+C3827166,Pegilodecakin
+C4519167,Tucatinib
+C4055433,atezolizumab
+C3492270,ricolinostat
+C4519079,veledimex
+C1564985,Abraxane
+C0675974,tanespimycin
+C4524315,larotrectinib
+C0279284,Doxil
+C0232970,Postmenopausal
+C0205271,Irregular
+C2348042,Parallel
+C0205394,Other
+C0728938,Partial
+C0205101,Outside
+C1513120,MSKCC
+C0016360,Fluorouracil
+C4329338,FAZ053
+C0851344,exemestane
+C2986399,BYL719
+C4053677,AZD1775
+C0290883,anastrozole
+C0338204,Herceptin
+C1516119,sorafenib
+C3827076,SGN-LIV1A
+C1609861,Seliciclib
+C0764827,sapacitabine
+C4086837,sacituzumab govitecan
+C4527407,LOXO195
+C2931926,ruxolitinib
+C4045494,ribociclib
+C4330586,RGX-104
+C4310558,PUH71
+C4310558,PU-H71
+C2984037,PTC299
+C0032042,placebo
+C1328025,pertuzumab
+C3658706,pembrolizumab
+C4053607,PDR001
+C3853822,palbociclib
+C0144576,Paclitaxel
+C0069717,oxaliplatin
+C2316164,olaparib
+C3657270,nivolumab
+C3896705,NeuVax
+C3640300,LJM716
+C2713008,neratinib
+C2933427,MK2206
+C0026259,Mitoxantrone
+C0279565,Invasive Lobular Carcinoma
+C0027667,Unknown primary cancer
+C0729594,Axillary lymph nodes
+C0037925,Spinal Cord
+C0035359,Retroperitoneum
+C0003962,Ascites
+C0926578,Right orbit
+C1281868,Hilar lymph node
+C0016366,Fluoxymesterone
+C4055109,durvalumab
+C4042960,talazoparib
+C0278488,metastatic breast cancer
+C0541315,everolimus
+C0015133,Etoposide
+C1723386,ertumaxomab
+C0935916,fulvestrant
+C2350866,eribulin
+C0246415,docetaxel
+C3899465,DLYE5953A
+C1690432,denosumab
+C1511767,Dendritic Cell Vaccine
+C3827127,debio 1347
+C0014582,Epirubicin
+C3496793,enzalutamide
+C0010583,Cyclophosphamide
+C1176309,bortezomib
+C2987384,BMN673
+C3491291,BKM120
+C2981819,BGJ398
+C0796392,bevacizumab
+C4049146,Cobimetinib
+C4053676,AZD9496
+C1831929,CNF2024
+C0008838,Cisplatin
+C0007257,Carmustine
+C0079083,Carboplatin
+C0671970,capecitabine
+C3181682,cabozantinib
+C0205250,High
+C0444686,calc
+C0332514,Asymmetry
+C0439745,Grouped
+C2662648,Amorphus
+C0038894,Surgery
+C1318309,Core Biopsy
+C0024671,Mammogram
+C0024299,Lymphoma
+C1266089,Metaplastic carcinoma
+C1449563,IDC
+C0007124,DCIS
+C0238767,Bilateral
+C0439743,Multicentric
+C0205292,Multifocal
+C0332221,Satellite
+C0037179,Single
+C0034510,Race
+C0441833,Panel
+C0132555,NOS
+C0205081,Moderate
+C1513302,MILD
+C0205234,Focal
+C1549495,Never
+C0205156,Former
+C0006142,Breast Cancer
+C1831920,ABT888
+C3852841,abemaciclib
+C0279680,Bladder Urothelial Carcinoma
+C1336860,Undifferentiated Malignant Neoplasm
+C0007117,Basal cell carcinoma
+C0221013,Systemic mastocytosis
+C0278701,stomach adenocarcinoma
+C1336027,Solid Papillary Carcinoma of the Breast
+C1261473,Sarcoma NOS
+C0279702,renal clear cell carcinoma
+C0149978,Rectal adenocarcinoma
+C0281361,Pancreatic adenocarcinoma
+C0010606,Adenoid Cystic Carcinoma
+C0007131,non small cell lung cancer
+C0027022,Myeloproliferative neoplasm
+C0026985,Myelodysplasia
+C1275874,Metaplastic squamous cell carcinoma
+C0025202,melanoma
+C1265996,Large cell neuroendocrine carcinoma
+C0019621,langerhans cell histiocytosis
+C0853879,Invasive breast carcinoma
+C0017636,Glioblastoma multiforme
+C0024301,follicular lymphoma
+C0001418,ADENOCARCINOMA NOS
+C0338106,COLON ADENOCARCINOMA
+C0206698,Cholangiocarcinoma
+C0027641,Breast neoplasm NOS
+C0023467,Acute myeloid leukemia
+C0678222,Breast Carcinoma
+C0040128,Thyroid
+C0034882,Rectum
+C0030274,Pancreas
+C0700374,Palate
+C0004600,Back
+C0238729,Axillary mass
+C0042567,Vertebrate
+C0042150,uterus cervix
+C0042131,uterus
+C0040578,Trachea
+C0038351,Stomach
+C0038293,Sternum
+C0037993,Spleen
+C0037949,Spine
+C0225317,soft tissue
+C0021852,Small bowel
+C0178298,Skin
+C0036277,Scapula
+C0036270,Scalp
+C4047398,Sacral mass
+C0035561,Rib
+C0004454,Axilla
+C0035359,Retroperitoneum
+C0225778,Pleural fluid
+C0032225,Pleura
+C0031153,Peritoneum
+C0003964,Peritoneal Fluid
+C0031050,Pericardium
+C0030797,Pelvis
+C0029928,Ovary
+C0230060,Orbital floor
+C0029180,Orbit
+C0028977,Omentum
+C0686905,Not Available
+C1272460,Not Applicable
+C0027530,Neck
+C0026845,Muscle
+C0025066,Mediastinum
+C0003617,Appendix
+C0240318,Mediastinal mass
+C0024204,Lymph node
+C0024109,Lung
+C0023884,Liver
+C0022646,Kidney
+C0230136,Intercostal space
+C0020889,Iliac bone
+C0018787,Heart
+C0001625,Adrenal gland
+C0018246,Groin
+C0016976,Gallbladder
+C0015811,Femur
+C0015556,fallopian tube
+C0014852,Esophagus
+C0228134,epidural
+C0009368,Colon
+C0205076,Chest Wall
+C0007874,Cervix
+C0007765,Cerebellum
+C0006497,Buttock
+C0006141,Breast
+C0006104,Brain
+C0021853,Bowel
+C0005953,Bone Marrow
+C0262950,Bone
+C0005682,Bladder
+C0836916,Abdominal Wall
+C0025677,Methotrexate
+C0065879,Megestrol Acetate
+C4527228,LY3321367
+C0278925,Chemoprevention
+C0600558,Neoadjuvant
+C0020823,Ifosfamide
+C4287757,GWN323
+C0120107,Goserelin
+C0079460,GMCSF
+C2827489,Glembatumumab
+C0085272,Leuprolide
+C0023413,Leucovorin
+C0246421,letrozole
+C2986924,lenvatinib
+C1506770,lapatinib
+C1831723,Gerson Therapy
+C4053626,LAG525
+C1135132,ixabepilone
+C0123931,irinotecan
+C1367202,ipilimumab
+C4287754,INCAGN01876
+C0045093,gemcitabine
+C0376409,Patient Preference
+C0549178,ONGOING
+C0040539,toxicity
+C0242656,Disease Progression
+C1518340,NED
+C2984520,GDC0980
+C2606671,GDC0941
+C0011900,Diagnostic
+C0199230,screening
+C0332490,Round
+C1709367,Oval
+C4700163,Not parallel
+C0205143,Angular
+C1282914,Circumscribed
+C4697722,Hyperechoic
+C0439855,Complex
+C0231242,Complicated
+C0205352,Simple
+C0205217,Increased
+C0332197,Absent
+C0577559,Mass
+C0919479,Yes
+C0028128,NO
+C0241165,SKIN THICKENING
+C0221370,NIPPLE RETRACTION
+C4227447,Skin retraction
+C0205090,Right
+C0205091,Left
+C0521116,Current
+C0007457,White
+C0439673,Unknown
+C0205394,Other
+C0282204,Native American
+C0085756,Black or African American
+C0919479,Yes
+C0028128,NO
+C0686905,Not Available
+C0013089,Doxorubicin
+C0018801,Heart failure
+C0002965,Unstable angina
+C0027051,Myocardial Infarction
+C0031039,Pericardial effusion
+C0806020,End date
+C0020792,Identification
+C1710360,Platform
+C1517586,Investigational
+C0439792,Extent
+C0205307,Unremarkable
+C3827727,Undetectable
+C0370003,Specimen
+C1302584,Date of report
+C0887950,Genomics
+C4289789,Cell free DNA
+C0028580,Magnetic Resonance
+C0037088,Clinical finding
+C1547538,Facility
+C1510755,Accession
+C1269792,Surgical pathology number
+C1300638,Identification number
+C0220784,anatomic
+C0030664,Pathology
+C0007124,Ductal Carcinoma In Situ
+C0332514,Asymmetry
+C0205284,Margin
+C0577559,Mass
+C0405352,breast biopsy
+C0441915,AJCC
+C0442310,Clockface position
+C1413503,CLOCK
+C1317250,Collection Date
+C1511314,BI-RADS
+C0449774,Pattern
+C1627358,Enhancement
+C0024204,Lymph node
+C0221198,Lesion
+C1152568,CDK inhibitor
+C0246957,CDK4
+C1506770,lapatinib
+C4505403,Emtansine
+C0441471,Event
+C0007226,Cardiovascular
+C1320716,Cardiovascular event
+C0949266,experimental therapy
+C2985566,Targeted Therapy
+C0019994,Hospital
+C0017446,geographic location
+C0450429,Location
+C0080264,ultrasound of breast
+C0006142,Breast Cancer
+C0085272,Leuprolide
+C0120107,Goserelin
+C0311392,physical finding
+C0743997,Incidental Finding
+C0444507,Incidental
+C0028794,Occult
+C0344104,Magnetic resonance imaging of breast
+C1513126,Menopausal Status
+C0411881,Diagnostic mammogram
+C0203028,screening mammogram
+C2348558,Study Date
+C0011923,Imaging
+C0184661,Procedure
+C1511314,BIRAD
+C1292734,Treatment intent
+C0162425,intent
+C1276305,Curative
+C0392360,indication
+C0441833,Panel
+C0024204,lymph nodes
+C0476270,Cardiovascular symptom
+C1881055,History of Coronary Artery Disease
+C0034619,radiation therapy
+C0337950,Treatment site
+C1510755,Accession Number
+C0807321,Histology Report
+C4050242,Pathologic Complete Response
+C0443276,Pathological staging
+C0205563,Clinical staging
+C0205563,Clinical stage
+C1512706,Cancer History
+C0006144,Breast Cyst
+C0746405,cystic mass
+C0040405,CT scan
+C0024485,Magnetic Resonance Imaging
+C1517586,Experimental
+C0920425,cancer treatment
+C0039798,treatment
+C4068833,Vascularity
+C0344441,Histology NOS
+C1134719,Invasive Ductal Carcinoma
+C0279754,ER Positive
+C0279756,ER Negative
+C0009488,Comorbidity
+C0027646,Cancer stage
+C0279756,Estrogen receptor negative
+C0279754,Estrogen receptor positive
+C0445085,NX
+C0441961,N3
+C4684527,Supraclavicular Fossa
+C0009488,comorbidities
+C0041618,Ultrasound
+C1301894,Medical record number
+C0456389,size
+C0205292,Multifocal
+C0019638,Histology
+C0456201,Histological grade
+C1518435,Nuclear Grade
+C1516974,Estrogen Receptor Status
+C1514471,Progesterone Receptor Status
+C0027365,Name
+C0421451,Date of birth
+C0001779,Age
+C0079399,Gender
+C0034510,Race
+C0015031,Ethnicity
+C0678222,Breast Carcinoma
+C0449438,Status
+C0007124,DCIS
+C2316983,Date of diagnosis
+C0205225,Primary
+C0006826,Cancer Type
+C1146895,Vital status
+C1522577,Followup
+C1148348,Death Date
+C1334274,Invasive Carcinoma
+C0279025,Endocrine therapy
+C0005525,Immunotherapy
+C0872338,cancer site
+C1659543,Breast Density
+C1823256,TCHP
+C0728747,trastuzumab
+C2935436,Trastuzumab emtansine
+C1268567,Tyrosine Kinase Inhibitor
+C2698020,Mass Density
+C0006660,Calcification
+C0729594,Axillary lymph node
+C1511314,BIRADS
+C0023114,laterality
+C0447660,Breast quadrant
+C1519386,Smoking Status
+C0488055,Systolic blood pressure
+C0004057,Aspirin
+C0360714,statin
+C0001645,Beta Blocker
+C0003015,ACE inhibitor
+C1561643,Chronic Kidney Disease
+C0017654,Glomerular Filtration Rate
+C0428772,Left ventricular ejection fraction
+C0034519,Radiation
+C4289789,cfDNA
+C1882413,PARP inhibitor
+C0677922,ovarian suppression
+C2975395,navitoclax
+C3492270,ricolinostat
+C0021764,Interleukin
+C0016366,Fluoxymesterone
+C0720810,Halotestin
+C4524315,larotrectinib
+C4726721,Sacituzumab
+C0205699,Carcinomatosis
+C0014852,Esophagus
+C1947913,LOCOREGIONAL
+C0332221,Satellite
+C0024671,Mammogram
+C0439855,Complex
+C4697722,Hyperechoic
+C0003811,Arrhythmia
+C0038454,Stroke
+C0011847,Diabetes
+C0020538,Hypertension
+C0020473,Hyperlipidemia
+C0031046,Pericarditis
+C0687676,Post
+C1513853,NON
+C0006141,Breast
+C1517886,Early Stage
+C0006826,Cancer
+C0027651,Neoplasm
+C0205179,Advanced
+C0036525,metastatic
+C1519810,Unresectable
+C0034897,Recurrence
+C0205174,Triple
+C3845275,Germline
+C0439677,Myeloid
+C0023418,leukemia
+C0007140,Carcinosarcoma
+C0001418,Adenocarcinoma
+C0475468,Esophagogastric
+C0038351,Gastric
+C0439682,Follicular
+C0017636,Glioblastoma multiforme
+C0205082,High grade
+C0440743,Serous
+C0019618,Histiocytosis
+C0549177,Large
+C0027912,Neuroendocrine
+C0007095,Carcinoid
+C1182670,Squamous
+C1709160,Neoplastic
+C0205332,Reactive
+C0700321,Small
+C0030274,Pancreatic
+C0007589,Differentiated
+C0205052,rectal
+C0022646,Renal
+C1261473,Sarcoma
+C0024899,Mastocytosis
+C0205112,Basal
+C0521164,Ring
+C0000726,Abdominal
+C0015811,Femur
+C0086590,Marrow
+C0007103,Endometrium
+C0205150,Hilar
+C0020889,Iliac
+C0230136,Intercostal space
+C0441989,Ipsilateral
+C0025066,Mediastinal
+C0699036,Orbital
+C0442146,Parasternal
+C0031153,Peritoneal
+C0036037,Sacral
+C0037004,Shoulder
+C0262950,Bone
+C0024202,Lymph
+C0243045,CDK
+C0072108,Cyclin
+C0429964,dependent
+C0031727,Kinase
+C0038951,4
+C0152407,6
+C1540292,PDL1
+C0007587,Cell Death
+C0023688,ligand
+C0205447,1
+C1999216,Inhibitor
+C1958300,veliparib
+C0045246,abt
+C0041271,Salpingectomy
+C0054252,BSO
+C0238767,Bilateral
+C0587605,Palliative
+C0589496,Supraclavicular
+C0325079,Fossa
+C1514164,Pleomorphic
+C1513269,Microcyst
+C1326330,septation
+C1269955,Invasion
+C0030747,pectoralis
+C0009924,Contrast
+C0444669,Core
+C0005558,Biopsy
+C0010054,coronary artery disease
+C0027061,Myocardial
+C0021308,Infarction
+C0205100,Peripheral
+C0005847,Vascular
+C0741847,Bypass
+C0184661,Intervention
+C0018787,Heart
+C0231174,Failure
+C0184252,VALVE
+C0000768,ABNORMALITY
+C0035139,Replacement
+C0031050,Pericardial
+C0013687,effusion
+C0443343,Unstable
+C0002962,Angina
+C0003811,Arrythmia
+C0001551,Adjuvant
+C0014136,Endocrine
+C0003241,Antibody
+C0242656,Progression
+C1547580,Preop
+C0205211,Subclinical
+C0034599,Radiology
+C0221198,Lesions
+C4042960,talazoparib
+C0011305,Dendritic
+C4055109,durvalumab
+C0108779,CD3
+C0069515,neu
+C4519167,Tucatinib
+C4055433,atezolizumab
+C0675974,tanespimycin
+C1538577,PARP
+C0137710,polyadenosine
+C0034320,diphosphate
+C0035549,Ribose
+C1335439,Polymerase
+C0006141,Mammary
+C0231290,After
+C0013216,Chemotherapy
+C0600558,Neoadjuvant
+C0205160,Negative
+C1446409,Positive
+C0069515,HER2
+C0037750,Spanish
+C1268647,Extremely dense
+C0034802,EGFR
+C1512426,Heterogenous
+C0205462,Histologic
+C0021756,interleukin 2
+C4264446,Mixed carcinoma
+C4042790,Quad
+C1521726,partial response
+C0677874,Complete Response
+C3843777,Currently taking
+C3258293,Valvular disease
+C1710661,Washout
+C0086409,Hispanic origin
+C0015031,Ethnic Origin
+C0079946,origin
+C0034510,Racial group
+C1532697,Unknown racial group
+C0425355,European origin
+C0086409,Spanish Origin
+C0456984,test results
+C0005507,Assay
+C0206492,bispecific antibody
+C0007465,Cause of Death
+C0011065,Death
+C4036190,"Yes, another Hispanic, Latino-a, or Spanish origin"
+C0456984,Test Result
+C0025474,Mesentery
+C3869435,Genomic Sequencing Procedures and Other Molecular Multianalyte Assays
+C0027651,Tumor
+C4322612,Parasternal part of chest
+C0205095,Posterior
+C2926098,Death due to CV causes
+C0741923,cardiac event
+C4552344,Acute cardiac event
+C0205082,Severe
+C1299222,Sample identification number
+C3176918,Clinical setting
+C0600644,Collection
+C0200345,sample collection
+C0231290,Status post
+C0332155,untreated
+C0741886,cancer resection
+C4743572,Definitive Surgical Resection
+C0332152,Before
+C0206492,bispecific antibody
+C0449695,Primary site
+C0243140,histopathology
+C0807944,Site of distant metastasis
+C0039593,Testing
+C0022885,Test
+C0242596,minimal residual disease
+C0334699,Myoepithelial carcinoma
+C0678222,Breast carcinoma NOS
+C1513792,Myeloproliferation
+C0206696,Signet ring cell carcinoma
+C0302523,Observation
+C2212591,signet ring cell carcinoma of bladder
+C1512742,"Infiltrating Bladder Urothelial Carcinoma, Plasmacytoid Variant"
+C0030669,surgical pathology
+C1710255,Surgical Pathology Report
+C3865711,Solid organ neoplasm genomic sequence analysis panel with DNA analysis
+C3899030,Germline Genotype Analysis
+C1285573,Genotype Analysis
+C0002778,Analysis
+C3708687,Gene analysis for detection of somatic variant
+C0027643,Local Neoplasm Recurrence
+C0746922,Node
+C1319030,Marker lymph node status unknown
+C0746919,NO TREATMENT
+C0597357,receptor
+C0807321,Pathology report
+C0079722,tumor infiltrating lymphocyte
+C0877341,Coronary revascularization
+C1275833,Partial response to treatment
+C0456201,Histological grade
+C4050242,Pathologic Complete Response
+C0205563,Clinical stage
+C1268997,Upper gastrointestinal tract
+C3273724,adenovirus-mediated human interleukin-12 INXN-2001 plus veledimex
+C2981832,Anti-CD3 x Anti-Her2/neu Bispecific Antibody-Armed Activated T Cells
+C0853879,Breast cancer invasive NOS
+C0521941,Antiresorptive Agents
+C3846095,Not done/Not applicable
+C0205250,High
+C1317250,Collection Date
+C1517033,Definitive Radiation Therapy
+C0425812,Nipple discharge present (situation)
+C1518340,No Evidence of Disease
+C0199975,Interleukin-2 therapy
+C0347918,Radiology equipment type NOS
+C1334708,Metaplastic carcinoma of breast
+C1334807,Invasive Mucinous Breast Carcinoma
+C0230267,Entire paracolic gutter (body structure)
+C0334355,"Serous cystadenoma, borderline malignancy"
+C1513365,Mixed Epithelial/Mesenchymal Metaplastic Breast Carcinoma
+C0749424,"Thyroid cancer, Hurthle cell"
+C3642254,High Grade Ovarian Serous Adenocarcinoma
+C1332166,Adenocarcinoma of the Esophagogastric Junction
+C0010606,Adenoid Cystic Carcinoma
+C4722301,Trastuzumab-Ixabepilone
+C4477758,letrozole-ribociclib
+C4688493,letrozole-palbociclib
+C4522219,Bevacizumab-Paclitaxel
+C1880379,Docetaxel-Carboplatin
+C4522213,Carboplatin-Gemcitabine
+C0039871,Thiotepa
+C0441988,Contralateral
+C0003962,Ascites
+C0007140,Carcinosarcoma
+C1334274,Invasive Carcinoma
+C1621425,cribriform
+C0334384,Ductal and Lobular Carcinoma
+C0035359,Retroperitoneum
+C0926578,Right orbit
+C0441989,Ipsilateral
+C1281868,Hilar lymph node
+C0729594,Axillary lymph nodes
+C0741899,Poorly differentiated carcinoma
+C0334384,Ductal and Lobular Carcinoma
+C0279565,Invasive Lobular Carcinoma
+C1134719,Invasive Ductal Carcinoma
+C0206696,Signet ring carcinoma
+C0027667,Unknown primary cancer
+C0014852,Esophagus
+C0450366,3c
+C0450365,3b
+C0450354,2b
+C0450353,2a
+C3539878,Triple Negative Breast Cancer
+C3844644,South or Central American
+C3242233,patient refuse
+C0282204,Native American
+C0078988,Asian
+C0919414,Zero
+C1565489,Renal impairment
+C1285155,Procedure by intent
+C0013216,Chemotherapy
+C0279025,Endocrine therapy
+C2585119,Experimental therapeutic procedure
+C0005525,Immunotherapy
+C1882413,PARP Inhibitors
+C0677922,ovarian suppression
+C0439673,Unknown
+C0450429,Location
+C0808070,Start Date
+C1656582,Date radiation ended:TmStp:Pt:Cancer.XXX:Qn
+C3166257,Reason stopped
+C0282411,Comment
+C0006660,Calcification
+C4331277,Seviteronel
+C1417490,MUC1
+C3896823,LOXO-101
+C3827166,AM0010
+C0717726,Liposomal Doxorubicin
+C0016366,Fluoxymesterone
+C3492270,Ricolinostat
+C1831992,ABT263
+C1564985,Abraxane
+C1882413,PARP inhibitor
+C0675974,17AAG
+C4055433,Atezolizumab
+C4519167,Tucatinib
+C4055109,Durvalumab
+C2987384,BMN673
+C1561643,CKD
+C1269792,Surgical Pathology Number
+C0006802,cm
+C2584899,date of procedure
+C0205394,Other
+C0242656,Progression
+C0242596,Minimal Residual Disease
+C0010054,coronary artery disease
+C0205394,Other
+C0439673,Unknown
+C0205394,Other
+C0587605,Palliative
+C0205394,Other
+C0195509,Bilateral salpingectomy
+C2607234,STA9090
+C0037949,Spine
+C0262950,Bone
+C1521902,specify
+C1521902,specify
+C0861352,LN
+C0013313,Dura
+C0031153,Peritoneum
+C0205312,Papillary
+C0205076,Chest wall
+C1272460,N/A
+C0439070,III
+C0021968,I
+C0020717,II
+C0205616,Moderately Differentiated
+C0205615,Well Differentiated
+C0441959,N0
+C1272460,Not Applicable
+C0205179,Advanced
+C1518340,NED
+C1518340,NED
+C0240339,Mexican
+C0439673,Unknown
+C0376409,Patient Preference
+C0549178,Ongoing
+C0040539,Toxicity
+C0242656,Disease Progression
+C0728938,Partial
+C0205101,Outside
+C1513120,MSKCC
+C0257685,Zoledronic Acid
+C3711165,VS5584
+C0078257,Vinorelbine
+C0042670,Vinblastine
+C0042679,Vincristine
+C1958300,Veliparib
+C2986853,TRX518
+C2351038,Tremelimumab
+C0728747,Trastuzumab
+C0076836,Toremifene
+C1872681,TESEtaxel
+C1707080,Temsirolimus
+C0076080,Temozolomide
+C0039286,Tamoxifen
+C1831828,Talimogene Laherparepvec
+C4042960,Talazoparib
+C1516119,Sorafenib
+C3827076,SGN-LIV1A
+C1609861,Seliciclib
+C0764827,Sapacitabine
+C4086837,Sacituzumab govitecan
+C2931926,Ruxolitinib
+C4045494,Ribociclib
+C4330586,RGX-104
+C4310558,PUH71
+C4310558,PU-H71
+C2984037,PTC299
+C0032042,Placebo
+C1328025,PERTUZumab
+C3658706,Pembrolizumab
+C4053607,PDR001
+C3853822,PALBOciclib
+C0144576,Paclitaxel
+C0069717,Oxaliplatin
+C2316164,Olaparib
+C3657270,Nivolumab
+C3896705,Neuvax
+C2713008,NERATinib
+C2933427,MK2206
+C0026259,Mitoxantrone
+C0065879,Megestrol Acetate
+C0025677,Methotrexate
+C4527228,LY3321367
+C4053573,LY3023414
+C4287738,LY3022855
+C3273551,LY2835219
+C3887576,Lucitanib
+C4287740,LSZ102
+C4527407,LOXO195
+C3640300,LJM716
+C0290883,Anastrozole
+C4330917,GDC0077
+C3660928,GDC0032
+C2984520,GDC0980
+C2606671,GDC0941
+C0935916,Fulvestrant
+C4329338,FAZ053
+C0016360,Fluorouracil
+C0851344,Exemestane
+C0541315,EVERolimus
+C0015133,Etoposide
+C1723386,Ertumaxomab
+C2350866,Eribulin
+C0085272,Leuprolide
+C0246421,Letrozole
+C0023413,Leucovorin
+C2986924,Lenvatinib
+C1506770,Lapatinib
+C4053626,LAG525
+C1135132,Ixabepilone
+C0123931,Irinotecan
+C1367202,IPILIMUmab
+C4287754,INCAGN01876
+C0020823,Ifosfamide
+C4287757,GWN323
+C0120107,Goserelin
+C0079460,GMCSF
+C2827489,Glembatumumab
+C1831723,Gerson Therapy
+C0045093,Gemcitabine
+C1831920,ABT888
+C3852841,ABEMAciclib
+C3496793,Enzalutamide
+C0014582,Epirubicin
+C0013089,Doxorubicin
+C0246415,Docetaxel
+C3899465,DLYE5953A
+C1690432,Denosumab
+C1511767,Dendritic Cell Vaccine
+C3827127,Debio 1347
+C0010583,Cyclophosphamide
+C4049146,Cobimetinib
+C1831929,CNF2024
+C0132555,NOS
+C0008838,Cisplatin
+C0079083,Carboplatin
+C0007257,Carmustine
+C0671970,Capecitabine
+C3181682,CABOZANTInib
+C2986399,BYL719
+C1176309,Bortezomib
+C2987384,BMN673
+C3491291,BKM120
+C2981819,BGJ398
+C0796392,Bevacizumab
+C4053676,AZD9496
+C4053677,AZD1775
+C0205394,other
+C0227052,15
+C0227051,14
+C0227048,13
+C0205458,12
+C0205457,11
+C0152401,10
+C0205455,9
+C0205454,8
+C0205453,7
+C0152407,6
+C0038951,4
+C0040999,5
+C0205449,3
+C0205448,2
+C0205447,1
+C0456148,None
+C0278925,Chemoprevention
+C0600558,Neoadjuvant
+C0036525,Metastatic
+C0242596,MRD
+C0034519,Radiation
+C0001551,Adjuvant
+C0009488,Comorbidities
+C0080194,Strain
+C2199689,LV diastolic dimension
+C0428772,LVEF
+C0360714,Statin
+C0001645,Beta-Blocker
+C0488055,Systolic blood pressure
+C0004057,Aspirin
+C1519386,Smoking Status
+C2347029,Sample Type
+C0030664,Pathology
+C0475373,T2
+C1511314,BIRADS
+C0006660,Calcification
+C2698020,Mass density
+C1827571,Depth of Lesion
+C0447660,Breast Quadrant
+C0023114,Laterality
+C1659543,Breast Density
+C0449523,Type of Scan
+C1510755,Accession Number
+C0392360,Indication
+C0806020,End Date
+C0808070,Start Date
+C0337950,Treatment Site
+C0162425,Intent
+C0282411,Comment
+C0450429,Location
+C0205394,Other
+C0677922,Ovarian Suppression
+C1882413,PARP Inhibitors
+C0005525,Immunotherapy
+C0279025,Endocrine Therapy
+C0013216,Chemotherapy
+C0441833,Panel
+C1518435,Nuclear Grade
+C0019638,Histology
+C0025646,M
+C0031995,pN
+C0030705,pT
+C0009244,cT
+C0008115,cN
+C0006802,cM
+C0441987,Side
+C1148348,Death Date
+C1146895,Vital Status
+C0040300,Tissue
+C0034510,Race
+C0015031,Ethnicity
+C0079399,Gender
+C2598519,Current Age
+C0301362,DOB
+C0027365,Name
+C1717139,MRN
+C0348000,Instrument
+C4289789,cfDNA
+C0039798,Treatment
+C0034619,Radiation Therapy
+C0370003,Sample
+C0027627,Metastasis
+C0205225,Primary
+C0011298,Demographics
+C0185115,Extraction
+C0018801,Heart Failure
+C0031046,Pericarditis
+C0031039,Pericardial Effusions
+C0027051,Myocardial Infarction
+C0002965,Unstable Angina
+C0020538,hypertension
+C0020473,hyperlipidemia
+C0011847,diabetes
+C0038454,stroke
+C0003811,arrhythmia
+C0018801,heart failure
+C0028128,no
+C0919479,yes
+C1549495,Never
+C0205156,Former
+C0521116,Current
+C1318309,Core Biopsy
+C0038894,Surgery
+C0024299,Lymphoma
+C1266089,Metaplastic Carcinoma
+C1366566,ILC
+C1449563,IDC
+C0007124,DCIS
+C0522501,MARKED
+C0547040,MINIMAL
+C0205387,Clumped
+C4698330,Homogenous
+C0205219,Diffuse
+C0205147,Regional
+C0205122,Segmental
+C0205132,Linear
+C0205234,Focal
+C1308727,Rim
+C0439742,Scattered
+C0522501,Marked
+C0205081,Moderate
+C1513302,Mild
+C0547040,Minimal
+C0205099,Central
+C0205090,Right
+C0205091,Left
+C0241165,skin thickening
+C0221370,Nipple retraction
+C4227447,Skin retraction
+C0028128,No
+C2964353,Plateau
+C0205322,Persistent
+C0015663,Fast
+C0439834,Slow
+C0009458,Medium
+C1272460,N/A
+C0205314,New
+C0442808,Increasing
+C0205360,Stable
+C1282914,Circumscribed
+C0332490,Round
+C1709367,Oval
+C0424295,Hyper
+C1668248,Iso
+C0205234,Focus
+C0577559,Mass
+C3476657,Troubleshooting
+C4331246,Restaging
+C0332305,Staging
+C0199230,Screening
+C0919479,Yes
+C0205217,Increased
+C0332197,Absent
+C0241165,Skin Thickening
+C4697722,Hyperechoic
+C0439855,Complex
+C0205143,angular
+C4700163,Not parallel
+C0011900,Diagnostic
+C0439745,Grouped
+C2662648,Amorphus
+C0205251,Low
+C0015677,Fat
+C0205163,Equal
+C0205250,High
+C4727091,Obscured
+C0444686,Calc
+C0332514,Asymmetry
+C0450363,3D
+C1442455,2D
+C4511913,CEDM
+C0024485,MRI
+C0041618,US
+C0024671,Mammogram
+C0238767,Bilateral
+C0439743,Multicentric
+C0205292,Multifocal
+C0332221,Satellite
+C0037179,Single
+C0030193,Pain
+C1412365,Palp
+C0205547,Routine
+C1272460,Not applicable
+C0037949,Spine
+C0262950,Bone
+C0006104,Brain
+C0205076,Chest wall
+C0542554,Internal mammary nodes
+C4684527,Supraclavicular fossa
+C0006141,Breast
+C0004454,Axilla
+C1420279,MSK
+C0587605,Palliative
+C1276305,Curative
+C1547325,Pending
+C4727545,IPILIMUmab-Nivolumab
+C3827127,Debio1347
+C3641122,MEDI4736
+C0285590,Bicalutamide
+C3502775,AZD5363
+C4744692,Anastrozole-Lapatinib
+C4744732,Letrozole-Trastuzumab
+C4722211,Fulvestrant-Trastuzumab
+C4722261,Tamoxifen-Trastuzumab
+C4522240,Carboplatin-Paclitaxel-Trastuzumab
+C4744775,Carboplatin-Trastuzumab
+C4521447,Vinorelbine-Trastuzumab
+C4744767,Eribulin-Trastuzumab
+C1541534,Capecitabine-Trastuzumab
+C4522185,Paclitaxel-Trastuzumab
+C4745315,ABEMAciclib-Fulvestrant
+C4744779,ABEMAciclib-Exemestane
+C4744780,ABEMAciclib-Anastrozole
+C4744778,ABEMAciclib-Letrozole
+C4744777,RIBOciclib-Fulvestrant
+C4744773,RIBOciclib-Exemestane
+C4744772,RIBOciclib-Anastrozole
+C4744771,PALBOciclib-Fulvestrant
+C4744770,PALBOciclib-Exemestane
+C4745317,PALBOciclib-Anastrozole
+C4744724,EVERolimus-Fulvestrant
+C4745316,EVERolimus-Tamoxifen
+C4684873,EVERolimus-Exemestane
+C3665472,Chemotherapy NOS
+C4526517,Capecitabine-Bevacizumab
+C0175210,TAC
+C0039411,TC
+C0001246,AC
+C0950521,CMF
+C0042567,Vertebrate
+C2987506,Uterus/Cervix
+C0042131,Uterus
+C0040578,Trachea
+C0038351,Stomach
+C0038293,Sternum
+C0037993,Spleen
+C0225317,Soft Tissue
+C0021852,Small Bowel
+C0178298,Skin
+C0036277,Scapula
+C0036270,Scalp
+C4047398,Sacral Mass
+C0035561,Rib
+C0035359,Retroperitoneum
+C0225778,Pleural Fluid
+C0032225,Pleura
+C0031050,Pericardium
+C0003964,Peritoneal Fluid
+C0031153,Peritoneum
+C0030797,Pelvis
+C0029928,Ovary
+C0230060,Orbital Floor
+C0028977,Omentum
+C0029180,Orbit
+C0686905,Not available
+C1272460,Not Applicable
+C0027530,Neck
+C0025066,Mediastinum
+C0026845,Muscle
+C0240318,Mediastinal Mass
+C0024109,Lung
+C0024204,Lymph Node
+C0022646,Kidney
+C0023884,Liver
+C0230136,Intercostal space
+C0020889,Iliac Bone
+C0018787,Heart
+C0016976,Gallbladder
+C0018246,Groin
+C0014852,Esophagus
+C0015556,Fallopian Tube
+C0015811,Femur
+C0228134,Epidural
+C0205076,Chest Wall
+C0009368,Colon
+C0021853,Bowel
+C0006497,Buttock
+C0007765,Cerebellum
+C0007874,Cervix
+C0005953,Bone Marrow
+C0005682,Bladder
+C0238729,Axillary mass
+C0004600,Back
+C0001625,Adrenal Gland
+C0003617,Appendix
+C0836916,Abdominal Wall
+C1336860,Undifferentiated Malignant Neoplasm
+C0221013,Systemic Mastocytosis
+C0278701,Stomach Adenocarcinoma
+C1336027,Solid Papillary Carcinoma of the Breast
+C1261473,Sarcoma NOS
+C0279702,Renal Clear Cell Carcinoma
+C0149978,Rectal Adenocarcinoma
+C0281361,Pancreatic Adenocarcinoma
+C0007131,Non-Small Cell Lung Cancer
+C0027022,Myeloproliferative Neoplasm
+C0026985,Myelodysplasia
+C1275874,Metaplastic Squamous Cell Carcinoma
+C0025202,Melanoma
+C0152013,Lung Adenocarcinoma
+C1265996,Large Cell Neuroendocrine Carcinoma
+C0019621,Langerhans Cell Histiocytosis
+C0853879,Invasive Breast Carcinoma
+C0024301,Follicular Lymphoma
+C0017636,Glioblastoma Multiforme
+C0338106,Colon Adenocarcinoma
+C0206698,Cholangiocarcinoma
+C0027641,Breast Neoplasm NOS
+C0678222,Breast Carcinoma
+C0279680,Bladder Urothelial Carcinoma
+C0010606,Adenoid Cystic Carcinoma
+C0007117,Basal Cell Carcinoma
+C0023467,Acute Myeloid Leukemia
+C0001418,Adenocarcinoma NOS
+C0040128,Thyroid
+C0030274,Pancreas
+C0034882,Rectum
+C0700374,Palate
+C0726639,Impact
+C0441833,panel
+C0332241,Equivocal
+C0205160,Negative
+C1446409,Positive
+C2827736,3+
+C2827735,2+
+C2827734,1+
+C0919414,0
+C0205430,Mixed
+C0205417,Lobular
+C1512083,Ductal
+C0041951,Ureter
+C0030580,Parotid
+C0037925,Spinal Cord
+C0036760,Serosa
+C0022378,Jejunum
+C0929176,Hilum
+C0016976,Gall Bladder
+C0007103,Endometrium
+C0013303,Duodenum
+C0007806,Cerebrospinal Fluid (CSF)
+C0001575,Adnexa
+C0003962,Ascites
+C0205177,Active
+C1518340,NED
+C1327616,Secretory
+C0205618,Undifferentiated
+C0334023,Metaplastic
+C1513712,Mucinous
+C0001629,Medullary
+C0151747,Tubular
+C0333348,Inflammatory
+C0279565,Invasive Lobular Carcinoma
+C1134719,Invasive Ductal Carcinoma
+C1334274,Invasive Carcinoma
+C0021440,IV
+C4697913,IIIA
+C0439070,III
+C0020980,IA
+C0020985,IB
+C0441971,M1
+C0445034,M0
+C0441961,N3
+C0441960,N2
+C0441962,N1
+C0445085,NX
+C1709110,N3c
+C1709109,N3b
+C1709108,N3a
+C0445080,N2b
+C0445079,N2a
+C3869928,N1mi
+C1709107,N1c
+C0456908,N1b
+C0456906,N1a
+C0441959,N0
+C0040165,T4
+C0475372,T1
+C0039711,TX
+C0475398,T4d
+C0475397,T4c
+C0475396,T4b
+C0475395,T4a
+C0041014,T3
+C0475386,T1c
+C0475385,T1b
+C0475383,T1a
+C3846409,T1mic
+C0475413,Tis
+C0475371,T0
+C0445085,Nx
+C0039711,Tx
+C1272696,Not done
+C0193867,ALND
+C0796693,SLNB
+C0917927,BCS
+C0009653,Prophylactic
+C0040722,TM
+C0687676,Post
+C0347985,Peri
+C0332152,Pre
+C1548958,Sequential
+C1302313,Lost to Follow up
+C0011065,Dead
+C2584946,Alive
+C3840603,Spanish surname only
+C0034043,Puerto Rican
+C1553379,Cuban
+C0013014,Dominican Republic
+C0007457,White
+C0085756,Black or African American
+C0043210,Female
+C0086582,Male
+C0039871,thiotepa
+C1268647,Extremely dense
+C1512426,Heterogenous
+C0338204,Herceptin
+C0042150,uterus cervix
+C1719852,Ultrasonographic echogenicity
+C0741688,BREAST CYST ULTRASOUND
+C3845572,Received outside of this facility
+C3845572,Received outside of this facility
+C3845572,Received outside of this facility
+C0013230,Investigational New Drugs
+C0013230,Investigational New Drugs
+C0013230,Investigational New Drugs
+C0013230,Investigational New Drugs
+C4068833,Vascularity
+C0037088,Clinical findings
+C0037088,Clinical findings
+C0037088,Clinical findings
+C0872338,cancer sites
+C0205402,Prominent
+C0205081,Moderate
+C0439855,Complex
+C0231242,Complicated
+C0205352,Simple
+C1268642,Mammography finding
+C0585897,History of peripheral vascular disease procedure
+C0085096,Peripheral vascular disease
+C0018824,cardiac valvular disease
+C0332514,Asymmetry
+C1512426,Heterogenous
+C2935436,ado-trastuzumab emtansine
+C0421292,skin changes
+C1268647,Extremely dense
+C0205081,Moderate
+C1512426,Heterogenous
+C1710661,Washout
+C2598519,Current age
+C0280089,Carcinoid tumor of lung
+C0858246,Hypo
+C0577559,Mass
+C0080194,Strain
+C0439742,Scattered
+C4684449,On Treatment
+C2709088,post treatment
+C2709094,pre treatment
+C0076836,Toremifene
+C4519079,veledimex
+C0232970,Postmenopausal
+C0205271,Irregular
+C2348042,Parallel
+C0244404,raloxifen
+C0278488,metastatic breast cancer
+C1268717,Mammographic breast density
+C1269792,Surgical pathology identifier
+C1299222,Sample identification number
+C0023114,laterality
+C4727162,Involved-site Radiation Therapy
+C4727162,Involved-site Radiation Therapy
+C0880159,Pathology report comments [Interpretation] Narrative
+C4086448,Histopathology Result
+C4542734,"Screening, diagnostic, film, digital or digital breast tomosynthesis (3d) mammography results documented and reviewed"
+C0746406,MASS DENSITY NEOPLASM
+C4041401,History of ductal carcinoma in situ of breast
+C1881055,Personal History of Coronary Artery Disease
+C0028794,occult
+C0028794,occult
+C0028794,occult
+C0028794,occult
+C0028794,occult
+C1160446,determination of bilateral symmetry
+C0034510,race
+C1268642,Mammography finding
+C0449453,Lesion size
+C0449453,Lesion size
+C0449453,Lesion size
+C2168701,shape of lesion
+C2168701,shape of lesion
+C2168701,shape of lesion
+C1268665,Radiographic lesion margin characteristics
+C1268665,Radiographic lesion margin characteristics
+C1268665,Radiographic lesion margin characteristics
+C0405352,Breast Biopsy
+C0023114,laterality
+C0023114,laterality
+C0023114,laterality
+C0023114,laterality
+C0015031,ethnicity
+C1827571,Depth of lesion
+C1827571,Depth of lesion
+C3496610,Tobacco smoking status
+C1268642,Mammography finding
+C2023417,echocardiography: morphologic left ventricular ejection fraction non-estimable
+C2199689,echocardiography: diastolic dimension of left ventricle
+C3173977,Clinical or research indication for test
+C0009488,comorbidities
+C0442310,Clockface position
+C0442310,Clockface position
+C0442310,Clockface position
+C0442310,Clockface position
+C1549501,"Report date/time, report date/time at filing ancillary (i.e., Lab)"
+C1549501,"Report date/time, report date/time at filing ancillary (i.e., Lab)"
+C1511314,Breast Imaging Reporting and Data System
+C1511314,Breast Imaging Reporting and Data System
+C1549501,"Report date/time, report date/time at filing ancillary (i.e., Lab)"
+C1549501,"Report date/time, report date/time at filing ancillary (i.e., Lab)"
+C0447660,Breast quadrant
+C0447660,Breast quadrant
+C1510755,Accession Number (identifier)
+C1510755,Accession Number (identifier)
+C1510755,Accession Number (identifier)
+C1827571,Depth of lesion
+C0447660,Breast quadrant
+C0521941,Antiresorptive Agents
+C3248288,"Beta-blocker therapy prescribed or currently being taken (CAD,HF)"
+C1510755,Accession Number (identifier)
+C1320716,Cardiovascular event
+C3248291,Aspirin or clopidogrel prescribed or currently being taken (CAD)
+C3248289,"Angiotensin Converting Enzyme (ACE) Inhibitor or Angiotensin Receptor Blocker (ARB) therapy prescribed or currently being taken (CAD, CKD, HF) (DM)"
+C0488055,Systolic blood pressure
+C3248290,Statin therapy prescribed or currently being taken (CAD)
+C2348558,Study Start Date
+C1511314,Breast Imaging Reporting and Data System
+C0262365,mammogram abnormality
+C1292734,Treatment intent
+C1549501,"Report date/time, report date/time at filing ancillary (i.e., Lab)"
+C4050242,Pathologic Complete Response
+C0600558,neoadjuvant therapy
+C3642344,Breast Carcinoma by Gene Expression Profile
+C0678222,Breast Carcinoma
+C1148348,Date of death
+C0947611,Comment
+C0475752,Tumor status
+C2706086,Patient Identification Number or Provider Account Number:Identifier:Point in time:^Patient:Nominal
+C0421451,Patient date of birth
+C0804642,Date first Dx:Date:Pt:Cancer.XXX:Qn
+C0804642,Date first Dx:Date:Pt:Cancer.XXX:Qn
+C1266869,Hospital AND/OR institution
+C0079399,Gender
+C0804762,Date last contact:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative
+C1301894,Medical record number
+C1299487,Patient name
+C1707251,Cancer Other
+C0804642,Date first Dx:Date:Pt:Cancer.XXX:Qn
+C0449259,Clinical course
+C1306459,Primary malignant neoplasm
+C0804642,Date first Dx:Date:Pt:Cancer.XXX:Qn
+C0449259,Clinical course
+C1306459,Primary malignant neoplasm
+C0804642,Date first Dx:Date:Pt:Cancer.XXX:Qn
+C0449259,Clinical course
+C1306459,Primary malignant neoplasm
+C0040300,Body tissue
+C1146895,Vital status:Type:Point in time:^Patient:Nominal
+C1516974,Estrogen Receptor Status - Clinical Trial Eligibility Criteria
+C4319467,Cells.estrogen receptor/100 cells:NFr:Pt:Breast cancer specimen:Qn:Immune stain
+C3847093,HER2 signals/nucleus:EntNum:Pt:Tiss:Qn:FISH
+C4482618,HER2:PrThr:Pt:Breast cancer specimen:Ord:FISH
+C1977461,HER2/CEP17:Ratio:Pt:Tiss:Qn:FISH
+C4482619,HER2:PrThr:Pt:Breast cancer specimen:Ord:Immune stain
+C1512413,HER2/Neu Status
+C0947611,Comment
+C0024884,"Mastectomy, Radical"
+C0807712,Recurrence date
+C1715904,Histologic type:Type:Pt:Breast tumor:Nom
+C3897311,Tumor Findings Laterality
+C1522449,Therapeutic radiology procedure
+C1316189,Tumor site:Anat:Pt:Specimen:Nom
+C0449259,Clinical course
+C1514471,Progesterone Receptor Status
+C4482761,Progesterone receptor Ag:PrThr:Pt:Breast cancer specimen:Ord:Immune stain
+C1516974,Estrogen Receptor Status - Clinical Trial Eligibility Criteria
+C0804708,Site of distant metastasis:Anat:Pt:Cancer.XXX:Nom
+C3847093,HER2 signals/nucleus:EntNum:Pt:Tiss:Qn:FISH
+C1977461,HER2/CEP17:Ratio:Pt:Tiss:Qn:FISH
+C4482619,HER2:PrThr:Pt:Breast cancer specimen:Ord:Immune stain
+C1512413,HER2/Neu Status
+C1266869,Hospital AND/OR institution
+C0947611,Comment
+C0807712,Recurrence date
+C0804708,Site of distant metastasis:Anat:Pt:Cancer.XXX:Nom
+C1514471,Progesterone Receptor Status
+C0030231,Palliative Care
+C1706721,Adjuvant Radiation Therapy
+C3260343,Deprecated TNM clinical staging - distant metastases - M [PhenX]
+C3260342,Deprecated TNM clinical staging - nodal involvement - N [PhenX]
+C3260340,Deprecated TNM clinical staging [PhenX]
+C3260341,Deprecated TNM clinical staging - primary tumor - T [PhenX]
+C0804642,Date first Dx:Date:Pt:Cancer.XXX:Qn
+C4319467,Cells.estrogen receptor/100 cells:NFr:Pt:Breast cancer specimen:Qn:Immune stain
+C1516974,Estrogen Receptor Status - Clinical Trial Eligibility Criteria
+C4482618,HER2:PrThr:Pt:Breast cancer specimen:Ord:FISH
+C1977461,HER2/CEP17:Ratio:Pt:Tiss:Qn:FISH
+C0941291,HER2 Ag:PrThr:Pt:Tiss:Ord:Immune stain
+C1512413,HER2/Neu Status
+C1266869,Hospital AND/OR institution
+C3847093,HER2 signals/nucleus:EntNum:Pt:Tiss:Qn:FISH
+C1715913,Histologic grade:Score:Pt:Breast cancer specimen:Ord:Nottingham
+C1715904,Histologic type:Type:Pt:Breast tumor:Nom
+C4048239,Histology aspects
+C3696935,Operative procedure on axilla
+C2919643,Surgical procedure on primary malignant neoplasm of breast
+C4255413,Date and time of surgery
+C1708790,Lymphatic Invasion
+C3829127,Menopause Status
+C0205292,Multifocal
+C0027663,"Neoplasms, Multiple Primary"
+C4086646,Number of Lymph Nodes Positive
+C1518435,Nuclear Grade
+C1709318,Oncotype DX Breast Cancer Assay
+C3898101,Oncotype DX DCIS Score
+C3260347,Deprecated TNM pathologic staging - distant metastases - M [PhenX]
+C3260346,Deprecated TNM pathologic staging - nodal involvement - N [PhenX]
+C4319465,Cells.progesterone receptor/100 cells:NFr:Pt:Breast cancer specimen:Qn:Immune stain
+C1514471,Progesterone Receptor Status
+C0947611,Comment
+C3897268,Tumor Results Sequence Number
+C3260344,Deprecated TNM pathologic staging [PhenX]
+C3260345,Deprecated TNM pathologic staging - primary tumor - T [PhenX]
+C3696935,Operative procedure on axilla
+C2919643,Surgical procedure on primary malignant neoplasm of breast
+C4255413,Date and time of surgery
+C3897311,Tumor Findings Laterality
+C0804677,Size:Length:Point in time:Tumor:Quantitative
+C1656582,Date radiation ended:TmStp:Pt:Cancer.XXX:Qn
+C1522449,Therapeutic radiology procedure
+C0947611,Comment
+C1531783,Date treatment started
+C1266869,Hospital AND/OR institution
+C2584899,Date of procedure
+C4319467,Cells.estrogen receptor/100 cells:NFr:Pt:Breast cancer specimen:Qn:Immune stain
+C1516974,Estrogen Receptor Status - Clinical Trial Eligibility Criteria
+C1977461,HER2/CEP17:Ratio:Pt:Tiss:Qn:FISH
+C4482618,HER2:PrThr:Pt:Breast cancer specimen:Ord:FISH
+C4482619,HER2:PrThr:Pt:Breast cancer specimen:Ord:Immune stain
+C1512413,HER2/Neu Status
+C1266869,Hospital AND/OR institution
+C3847093,HER2 signals/nucleus:EntNum:Pt:Tiss:Qn:FISH
+C4319371,Body structure included in specimen:Anat:Pt:Specimen:Nom
+C4048239,Histology aspects
+C1510755,Accession Number (identifier)
+C4319465,Cells.progesterone receptor/100 cells:NFr:Pt:Breast cancer specimen:Qn:Immune stain
+C1514471,Progesterone Receptor Status
+C1510755,Accession Number (identifier)
+C0947611,Comment
+C1299222,Sample identification number
+C1299258,Primary malignant neoplasm of breast
+C1316189,Tumor site:Anat:Pt:Specimen:Nom
+C0456204,Specimen type
+C1268567,Protein-tyrosine kinase inhibitor
+C2935436,ado-trastuzumab emtansine
+C0728747,trastuzumab
+C1511576,Cyclin-Dependent Kinase Inhibitor Agents
+C0392920,Chemotherapy Regimen
+C3899266,End Date and Time of Procedure
+C1880501,Endocrine Drug Therapy
+C0021083,Immunotherapy
+C1266869,Hospital AND/OR institution
+C0677922,Ovarian ablation
+C0677922,Ovarian ablation
+C1882413,Poly(ADP-ribose) Polymerase Inhibitors
+C1273562,Procedure stopped
+C3173309,Date treatment or therapy started
+C2585119,Experimental therapeutic procedure
+C0521982,Response to treatment
+C0087111,Therapeutic procedure
+C0947611,Comment
+C1285155,Procedure by intent
+C3897268,Tumor Results Sequence Number
+C0804708,Site of distant metastasis:Anat:Pt:Cancer.XXX:Nom
+C0804708,Site of distant metastasis:Anat:Pt:Cancer.XXX:Nom
+C3897268,Tumor Results Sequence Number
+C3897268,Tumor Results Sequence Number
+C3897268,Tumor Results Sequence Number
+C3898879,Hormone Receptor/HER2 Positive
+C0679246,advanced disease
+C0586519,Specimen from breast
+C4527347,Lapatinib/Capecitabine Regimen
+C1541246,Lapatinib/Trastuzumab Regimen
+C4527351,Pertuzumab/Trastuzumab/Paclitaxel Regimen
+C4527349,Pertuzumab/Trastuzumab/Docetaxel Regimen
+C4527348,Pertuzumab/Trastuzumab Regimen
+C1134648,Cyclophosphamide/Fluorouracil/Methotrexate/Trastuzumab
+C1327926,Exemestane/Trastuzumab
+C1134443,Anastrozole/Trastuzumab
+C0879507,Docetaxel/Trastuzumab
+C0935898,Carboplatin/Docetaxel/Trastuzumab
+C0796529,Gemcitabine/Monoclonal Antibody HER2
+C0338364,Paclitaxel/Trastuzumab
+C1879500,AC-T Regimen
+C0248241,CEF regimen
+C0935867,Bevacizumab/Vinorelbine
+C0054427,cyclophosphamide/doxorubicin/fluorouracil protocol
+C1134527,Bevacizumab/Docetaxel
+C0392920,Chemotherapy Regimen
+C0054554,CAMF protocol
+C4087027,GDC-0810
+C1541558,everolimus/letrozole
+C4086837,sacituzumab govitecan
+C4289971,Anti-PD-L1 Monoclonal Antibody
+C0199976,Lymphokine activated killer cell therapy
+C0879250,HER-2-neu peptide vaccine
+C1298653,Patient declined anti-cancer treatment
+C1272695,Done (qualifier value)
+C1521726,partial response
+C1518340,No Evidence of Disease
+C1306577,Death (finding)
+C1709536,Physician Decision
+C0580105,Change of medication
+C3896765,Selective Estrogen Receptor Degrader SRN-927
+C3827144,CEP-37440
+C3827146,CB-839
+C3827076,SGN-LIV1A
+C1511576,Cyclin-Dependent Kinase Inhibitor Agents
+C2585119,Experimental therapeutic procedure
+C0085533,"Chemotherapy, Adjuvant"
+C0439673,Unknown
+C0439673,Unknown
+C1762617,Weak
+C0332241,Equivocal
+C0010606,Adenoid Cystic Carcinoma
+C0014537,Structure of epidural space
+C1282471,Local recurrence of malignant tumor of breast
+C0441766,Stage level 1
+C0205160,Negative
+C1298196,Nottingham Combined Grade III: 8-9 points
+C0281267,bilateral breast cancer
+C4018978,Unilateral Breast Neoplasms
+KEY_CUI,KEY_CUI_MRCONSO_STR
